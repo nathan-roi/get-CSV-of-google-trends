@@ -1,6 +1,6 @@
 # Get CSV from GG Trends
 
-Développé par Nathan ROI
+Développé par Nathan ROI  
 Contact : nathan.roi@disroot.org
 
 ---
