@@ -11,8 +11,10 @@ Pour cela j’utilise SerpAPI.
 ### Table des matières
 - [Prérequis](#prérequis)
 - [Installer le package serpAPI](#installer-le-package-serpapi)
-- [Lancer le programme](#Lancer-le-programme)
+- [Lancer le programme](#lancer-le-programme)
+
 <br/>
+
 ### Prérequis
 
 - python 3.11+ avec pip. Télécharger python → https://www.python.org/downloads/
@@ -28,6 +30,8 @@ pip --version # Retourne la version de pip
 
 Si l’une ou ces deux commandes ne renvoient rien, internet et là ou alors envoyer moi un mail.
 
+<br/>
+
 ### Installer le package serpAPI
 
 ```bash
@@ -38,6 +42,7 @@ pip install google-search-results
 <small>Compléter la variable ```API_KEY``` avec votr clé API</small>
 
 ### Lancer le programme
+
 ```bash
 python getCSVofGGTrends.py
 ```
